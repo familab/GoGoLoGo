@@ -1,0 +1,13 @@
+body{
+	background-color: #02F;
+}
+#logo{
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	display: block;
+	margin-top: 30px;
+}
+.sdf {
+	border: 2px solid black;
+}
